@@ -1,2 +1,2 @@
 # DS_Implementation
-Implementation of a variety of popular Data Structures
+Implementation of a variety of popular Data Structures.
